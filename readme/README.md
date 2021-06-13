@@ -4,7 +4,7 @@ ini adalah project kelompok lowongan kerja berbasis website dengan menggunakan k
 
 1.Andi Muhammad Yusuf Assidiq |
  2.Fadila Azhari |
- 3.Nila Fadila
+ 3.Nila Fadhila
  
  * Fitur yang ada di website:
   1.menggunakan css
