@@ -1,0 +1,96 @@
+body{
+    background-color: #eaeaea;
+    color: #333;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+    background-color: white;
+    
+}
+
+.header{
+    padding: 20px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.header ul li {
+    display: inline-block;
+    margin-left: 3px;
+    margin-right: 15px;
+}
+
+.header a {
+    text-decoration: none;
+    color: hotpink;
+    border-top: 5px solid hotpink;
+    border-bottom: 5px solid hotpink;
+}
+.header a:hover{
+    background-color: brown;
+    color: aquamarine
+}
+
+.header h2{
+    border-bottom: 5px solid hotpink;
+}
+.hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 428px;
+    width: 64%;
+
+    background-image:url(image/grills-logos_transparent.png);
+    
+    
+    
+}
+
+image-resize{
+    height: 400px;
+    
+}
+
+.content{
+    padding: 20px;
+}
+
+.content h1{
+    font-size: 28px;
+    font-weight: bold;
+    border-bottom: 5px solid salmon;
+}
+.content h2{
+    font-size: 28px;
+    font-weight: bold;
+    border-bottom: 5px solid salmon;
+}
+
+.content .heros{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 428px;
+    width: 64%;
+    background-image: url(miles-burke-idhx-MOCDSk-unsplash.jpg)
+}
+
+.content ul{
+    list-style-type: none;
+}
+
+.content a {
+    text-decoration: none;
+    color: hotpink;
+}
+.content a:hover{
+    background-color: brown;
+    color: aquamarine
+}
