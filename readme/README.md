@@ -16,3 +16,16 @@ ini adalah project kelompok lowongan kerja berbasis website dengan menggunakan k
 berikut ini adalah hasil implementasi dari website yang sudah kami buat
 
 * Homepage:
+![link](grills_homepage.png)
+
+*contact page:
+
+![link](grills_contact_page.png)
+
+*input :
+
+![link](input.png)
+
+output:
+
+![link](output.png)
